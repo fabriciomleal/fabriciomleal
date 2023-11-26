@@ -21,6 +21,9 @@ hi there, Fabrício here!
   <a href="https://www.linkedin.com/in/fabriciomgleal/" target="_blank"><img height="30" width="40" src="https://www.svgrepo.com/show/475661/linkedin-color.svg" target="_blank"></a> 
 </div>
 
-##
-[![fabri-codes's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=fabri-codes&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabri-codes&layout=compact&hide=css&theme=aura)
+<a href="https://github-readme-stats.vercel.app/api?username=fabri-codes&show_icons=true&theme=aura">
+  <img height=130 align="center" src="https://github-readme-stats.vercel.app/api?username=fabri-codes&show_icons=true&theme=aura" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=fabri-codes&layout=compact&hide=css&theme=aura">
+  <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabri-codes&layout=compact&hide=css&theme=aura" />
+</a>
