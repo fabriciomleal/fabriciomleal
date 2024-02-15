@@ -16,14 +16,14 @@ hi there, Fabrício here!
   ##
  
 <div> 
-  <a href="https://instagram.com/fabri.codes" target="_blank"><img height="30" width="40" src="https://www.svgrepo.com/show/452229/instagram-1.svg" target="_blank"></a>
-  <a href = "mailto:fabri.code@outlook.com"><img height="30" width="40" src="https://www.svgrepo.com/show/452067/ms-outlook.svg" target="_blank"></a>
+  <a href="https://instagram.com/fabriciomgleal" target="_blank"><img height="30" width="40" src="https://www.svgrepo.com/show/452229/instagram-1.svg" target="_blank"></a>
+  <a href = "mailto:fabricio.mg.leal@outlook.com"><img height="30" width="40" src="https://www.svgrepo.com/show/452067/ms-outlook.svg" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fabriciomgleal/" target="_blank"><img height="30" width="40" src="https://www.svgrepo.com/show/475661/linkedin-color.svg" target="_blank"></a> 
 </div>
 
-<a href="https://github-readme-stats.vercel.app/api?username=fabri-codes&show_icons=true&theme=aura">
-  <img height=130 align="center" src="https://github-readme-stats.vercel.app/api?username=fabri-codes&show_icons=true&theme=aura" />
+<a href="https://github-readme-stats.vercel.app/api?username=fabriciomleal&show_icons=true&theme=aura">
+  <img height=130 align="center" src="https://github-readme-stats.vercel.app/api?username=fabriciomleal&show_icons=true&theme=aura" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=fabri-codes&layout=compact&hide=css&theme=aura">
-  <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabri-codes&layout=compact&hide=css&theme=aura" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciomleal&layout=compact&hide=css&theme=aura">
+  <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciomleal&layout=compact&hide=css&theme=aura" />
 </a>
