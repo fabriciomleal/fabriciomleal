@@ -4,9 +4,10 @@ hi there, Fabrício here!
 - 🪴 minimalist dev
 - ☕️ always learning
 - 🤓 improving my knowledge of java and typescript
+- 🐺 currently developing my own Python library, you can access it from the Python icon below
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="fabri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="fabri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" link="https://pypi.org/project/mubicryy/">
   <img align="center" alt="fabri-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="fabri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="fabri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
